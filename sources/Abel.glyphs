@@ -31,7 +31,7 @@ name = "Use Typo Metrics";
 value = 1;
 }
 );
-date = "2011-07-28 18:18:45 +0000";
+date = "2016-08-24 09:12:22 +0000";
 designer = "Matthew Desmond";
 designerURL = "http://www.madtype.com";
 familyName = Abel;
@@ -14862,6 +14862,6 @@ slash = -12;
 manufacturer = "Matthew Desmond";
 manufacturerURL = "http://www.madtype.com";
 unitsPerEm = 1000;
-versionMajor = 1;
+versionMajor = 2;
 versionMinor = 2;
 }
