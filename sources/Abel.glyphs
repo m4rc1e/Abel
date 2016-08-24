@@ -1,6 +1,6 @@
 {
 .appVersion = "911";
-copyright = "Copyright (c) 2011, Matthew Desmond (http://www.madtype.com | mattdesmond@gmail.com), with Reserved Font Name Abel.";
+copyright = "Copyright (c) 2011, The Abel Project Authors (mattdesmond@gmail.com)";
 customParameters = (
 {
 name = licenseURL;
@@ -19,7 +19,7 @@ name = license;
 value = "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL";
 },
 {
-name = openTypeOS2VendorID;
+name = vendorID;
 value = MADT;
 },
 {
